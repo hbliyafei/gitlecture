@@ -1,6 +1,2 @@
 hello world
 hello springboot
-hello python
-
-hello github
-hello javascript
